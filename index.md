@@ -6,18 +6,20 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Andrew Huh
 banner_subtitle: I build products that change the game.
-background_image: /images/background.jpeg
+background_image: /images/dcmetro.jpg
 
 # all of the following variables are optional -----------------
 page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+favicon: 
+
+#/assets/ico/favicon.ico
 
 # social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
+twitter_username: Andrew39008845 # # your twitter handle
+github_username:  andrewjjhuh # your github username
+linkedin: andrewjjhuh # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
