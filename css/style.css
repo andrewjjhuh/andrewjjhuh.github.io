@@ -689,7 +689,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 	#banner {
 		background-attachment: scroll, fixed;
-		background-color: transparent;
+		background-color: black;
 		background-position: bottom center, top center;
 		background-repeat: no-repeat;
 		background-size: 25em, cover;
