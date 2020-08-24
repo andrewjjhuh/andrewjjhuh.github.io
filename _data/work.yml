@@ -6,7 +6,7 @@ work:
     items:
       - item: example.html
         image: /images/yelpicon.png # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: example4.html
         image: /images/congresslogo.svg
       - item: example2.html
         image: /images/rezlogo.png
