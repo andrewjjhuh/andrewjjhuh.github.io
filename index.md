@@ -48,10 +48,8 @@ cta_button_label: contact # the label on the button
 
 My name is Andrew. I am from Fairfax, VA and am currently attending Northwestern University in Evanston, IL. I am studying Computer Science and Economics and am interested in product development.
   
-I am passionate about the products I create, and the people who get to use them. I'm currently involved with a student startup, [RezEssentials], (https://rezessentials.com/), where I am a Technology and Operations Manager.
+I am passionate about the products I create, and the people who get to use them. I'm currently involved with a student startup, [RezEssentials](https://rezessentials.com/), where I am a Technology and Operations Manager. There, I collaborate with fellow students to provide our campus community with dorm essentials, such as fridges and vacuums. I manage weekly operations as well as maintain the company website, helping to generate our $70,000 in annual revenue.
   
+In the past, I have helped to kickstart [Wunderwell](https://www.wunderwell.com/), a health and wellness start-up in Washington, D.C. As a software engineering intern, I constructed a database of thousands of practitioners in the D.C. metropolitan area using the Yelp API and Python. I also implemented SEO techniques to increase website traffic by 95% over the course of the internship. Wunderwell and RezEssentials have developed my passion for entrepreneurship and startups. 
 
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
+I am currently searching for internships in the Summer of 2021, ahead of my anticipated graduation date in June 2022. Please email me at andrewjoonhuh@gmail.com if you would like to speak!
