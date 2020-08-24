@@ -790,7 +790,7 @@ custom styles adapted from Twenty by HTML5 Up
 
 /* CTA */
 
-	.cta {
+	#connect .cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: black;
 		background: rgba(0, 0, 0, 0.85);
