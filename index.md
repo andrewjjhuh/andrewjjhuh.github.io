@@ -46,7 +46,7 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### **Hi!**  
 
-My name is Andrew. I am from Fairfax, VA and am currently attending Northwestern University in Evanston, IL. I am studying Computer Science and Economics and am interested in product development.
+My name is Andrew. I am from Fairfax, VA and am currently attending Northwestern University in Evanston, IL. I am studying Computer Science and Economics and am interested in software engineering and product development.
   
 I am passionate about the products I create, and the people who get to use them. I'm currently involved with a student startup, [RezEssentials](https://rezessentials.com/), where I am a Technology and Operations Manager. There, I collaborate with fellow students to provide our campus community with dorm essentials, such as fridges and vacuums. I manage weekly operations as well as maintain the company website, helping to generate our $70,000 in annual revenue.
   
