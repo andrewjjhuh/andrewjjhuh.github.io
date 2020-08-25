@@ -116,12 +116,12 @@
             <!-- section: work-->
             {% if page.portfolio %}
             <section class="wrapper style3 container special" id="{{ page.portfolio }}">
-					      <header class="special">
+					      <header class="special" id="portfolio-sec">
                   <h2><strong>{{ page.portfolio }}</strong></h2>
                 </header>
                 <p>{{ page.portfolio_description }}</p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
-                <div class="row" id="portfolio-sec">
+                <div class="row">
 
                           <div class="12u">
                               <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
