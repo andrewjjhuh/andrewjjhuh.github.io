@@ -5,7 +5,7 @@ work:
   - category: examples
     items:
       - item: example.html
-        image: https://github.com/andrewjoonhuh/yelp-database # optionally, include the file path for an image for each item
+        image: /images/yelpicon.png # optionally, include the file path for an image for each item
       - item: example4.html
         image: /images/congresslogo.svg
       - item: example2.html
