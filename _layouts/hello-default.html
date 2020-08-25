@@ -62,10 +62,10 @@
         <ul>
           <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#about">about</a></li>
           {% if page.portfolio %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.portfolio }}">{{ page.portfolio }}</a></li>
+          <li style="text-transform:lowercase"><a href="#portfolio-sec">{{ page.portfolio }}</a></li>
           {% endif %}
           {% if page.cta %}
-          <li style="text-transform:lowercase"><a href="{{ page.page_url }}/#{{ page.cta }}"> {{ page.cta }} </a></li>
+          <li style="text-transform:lowercase"><a href="https://www.linkedin.com/in/andrewjjhuh/"> {{ page.cta }} </a></li>
           {% endif %}
         </ul>
       </nav>
@@ -121,7 +121,7 @@
                 </header>
                 <p>{{ page.portfolio_description }}</p>
                 {% for categories in site.data[page.portfolio][page.portfolio] %}
-                <div class="row">
+                <div class="row" id="portfolio-sec">
 
                           <div class="12u">
                               <h3 style="margin-bottom:2em; font-size:1.25em"><strong>{{ categories.category}}</strong></h3>
