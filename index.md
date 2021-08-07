@@ -17,7 +17,6 @@ favicon:
 #/assets/ico/favicon.ico
 
 # social media
-twitter_username: Andrew39008845 # # your twitter handle
 github_username:  andrewjjhuh # your github username
 linkedin: andrewjjhuh # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
@@ -46,10 +45,10 @@ cta_button_label: contact # the label on the button
 [//]: # (write a bit about yourself here)
 ### **Hi!**  
 
-My name is Andrew. I am from Fairfax, VA and am currently attending Northwestern University in Evanston, IL. I am studying Computer Science and Economics and am interested in software engineering and product development.
-  
-I am passionate about the products I create, and the people who get to use them. I'm currently involved with a student startup, [RezEssentials](https://rezessentials.com/), where I am a Technology and Operations Manager. There, I collaborate with fellow students to provide our campus community with dorm essentials, such as fridges and vacuums. I manage weekly operations as well as maintain the company website, helping to generate our $70,000 in annual revenue.
-  
-In the past, I have helped to kickstart [Wunderwell](https://www.wunderwell.com/), a health and wellness start-up in Washington, D.C. As a software engineering intern, I constructed a database of thousands of practitioners in the D.C. metropolitan area using the Yelp API and Python. I also implemented SEO techniques to increase website traffic by 95% over the course of the internship. Wunderwell and RezEssentials have developed my passion for entrepreneurship and startups. 
+My name is Andrew. I am from Fairfax, VA and am currently attending Northwestern University in Evanston, IL. I am studying Computer Science and Economics and am interested in product management.
 
-I am currently searching for internships in the Summer of 2021, ahead of my anticipated graduation date in June 2022. Please email me at andrewjoonhuh@gmail.com if you would like to speak!
+I first developed my passion for product development while working on a children’s play set for our client at a rehabilitation hospital in Chicago. With my team, I was encouraged to quickly build mockups, test our product with users, benchmark our performance data, and repeat. There was nothing more rewarding than seeing our client use our technology to accomplish their goals. From there, I moved into a product management role at Alarm.com, working with engineering, design, and sales teams to launch a new home security device and manage its software.  This experience only further solidified my passion for product management, as I saw how a product manager’s vision and execution can shape important aspects of a user’s life, such as securing their homes.
+
+I am passionate about the products I create, and the people who get to use them. I'm currently involved with a student startup, [RezEssentials](https://rezessentials.com/), where I am a Technology and Operations Manager. There, I collaborate with fellow students to provide our campus community with dorm essentials, such as fridges and vacuums. I manage weekly operations as well as maintain the company website, helping to generate our $70,000 in annual revenue.
+
+I am currently searching for full time roles, ahead of my anticipated graduation date in Spring 2022. Please email me at andrewjoonhuh@gmail.com if you would like to speak!
